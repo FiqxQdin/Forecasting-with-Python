@@ -1,0 +1,1 @@
+print("Fiqx Qdin")
